@@ -1,0 +1,13 @@
+torch~=1.13.0+cu117
+ipdb~=0.13.13
+numpy~=1.25.1
+networkx~=3.2.1
+pillow~=9.5.0
+shapely~=2.0.2
+matplotlib~=3.8.1
+num2words~=0.5.12
+plotly~=5.18.0
+tqdm~=4.65.0
+open3d~=0.17.0
+transformers~=4.30.2
+openai~=0.27.8
